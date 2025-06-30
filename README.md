@@ -34,3 +34,7 @@ Deliverable:
 
 The final output should be a Jupyter Notebook that clearly demonstrates: The cleaning and transformation of raw text data ,TF-IDF vectorization process ,Training and prediction using Logistic Regression , Visualization of evaluation metrics (e.g., confusion matrix) and A few sample predictions for interpretability
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/97166667-575b-4d9e-9691-da9dcefadcd9)
+
